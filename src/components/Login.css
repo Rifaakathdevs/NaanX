@@ -1,0 +1,22 @@
+/* Example styling for the login page */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #1E3A8A; /* Blue color */
+}
+
+input:focus {
+  outline: none;
+  border-color: #3B82F6; /* Focused input border color */
+}
+
+button {
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2563EB; /* Darker blue on hover */
+}
